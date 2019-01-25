@@ -1,4 +1,4 @@
-// still bad
+// not good
 
 #pragma once
 using namespace std;
